@@ -5,7 +5,5 @@ maintainer: Nathan Gill <nathan.j.gill@outlook.com>
 license: GPL-3.0-or-later
 sources:
     - url: https://ftp.gnu.org/gnu/hello/hello-2.12.2.tar.gz
-      hash:
-          - algorithm: blake3
-            sum: efd57971c4189186b6c32e0d3592e1d6f79387d7d4e7aabb203997bb49307477
+      hash: efd57971c4189186b6c32e0d3592e1d6f79387d7d4e7aabb203997bb49307477
 
